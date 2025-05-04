@@ -17,4 +17,4 @@ Users may revoke GPT access to their Salesforce org at any time by:
 - Revoking the token for the relevant connected app
 
 ## Contact
-For any questions or concerns, contact [you@example.com].
+For any questions or concerns, contact cory.a.britton@gmail.com.
